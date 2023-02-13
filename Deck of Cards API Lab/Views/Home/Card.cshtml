@@ -5,21 +5,23 @@
 @{
 }
 
+@{
 <form asp-method="post" asp-action="Card">
 
-    <p>Draw more cards.</p>
+    <p>Press the button to draw 5 more cards.</p>
     <input type="hidden" name="id" value="@Model.DeckId" />
 
     <input type="submit" value="Draw" class="btn btn-primary" />
 </form>
-
-@{
-    if (Model != null)
-    {
+    <p>Cards remaining in Deck: @Model.Remaining</p>  
         for (int i = 0; i < Model.Cards.Length; i++)
         {
-        <img src="@Model.Cards[i].Images.Png" />
-        <p>@Model.Cards[i].Value @Model.Cards[i].Suit</p>
+            <img src="@Model.Cards[i].Images.Png" />
+            <p>@Model.Cards[i].Value @Model.Cards[i].Suit</p>
         }
+
+    if (@Model.Remaining == 0)
+    {
+        CardDAL.Reshuffle(@Model.DeckId);
     }
 }

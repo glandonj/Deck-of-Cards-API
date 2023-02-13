@@ -1,4 +1,39 @@
 ﻿<Properties StartupConfiguration="{5C03BF61-CE04-475E-A246-1CB52796A058}|Default">
-  <MonoDevelop.Ide.ItemProperties.Deck_220of_220Cards_220API_220Lab FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Deck_220of_220Cards_220API_220Lab PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Deck of Cards API Lab/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Deck of Cards API Lab/Models/CardDAL.cs" Line="32" Column="1" />
+      <File FileName="Deck of Cards API Lab/Views/Home/Card.cshtml" Line="16" Column="2" />
+      <File FileName="Deck of Cards API Lab/Controllers/HomeController.cs" Line="35" Column="6" />
+      <File FileName="Deck of Cards API Lab/Views/Shared/_Layout.cshtml" Line="29" Column="124" />
+      <File FileName="Deck of Cards API Lab/Models/CardModel.cs" Line="8" Column="30" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Deck of Cards API Lab" expanded="True">
+            <Node name="Deck of Cards API Lab" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
