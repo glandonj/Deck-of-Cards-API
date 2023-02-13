@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P8rDWhqDQ+TNzbVGgsdt0/lSAUH3Cvl958CJWk+QcO+TH3dI246AOEzt2eL7Jx7Y7BNazUN8MgGq2fIpYov2Og==",
+  "success": true,
+  "projectFilePath": "/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/Deck of Cards API Lab.csproj",
+  "expectedPackageFiles": [
+    "/Users/glandoncomputer/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

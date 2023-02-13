@@ -1,0 +1,25 @@
+﻿@model CardModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<form asp-method="post" asp-action="Card">
+
+    <p>Draw more cards.</p>
+    <input type="hidden" name="id" value="@Model.DeckId" />
+
+    <input type="submit" value="Draw" class="btn btn-primary" />
+</form>
+
+@{
+    if (Model != null)
+    {
+        for (int i = 0; i < Model.Cards.Length; i++)
+        {
+        <img src="@Model.Cards[i].Images.Png" />
+        <p>@Model.Cards[i].Value @Model.Cards[i].Suit</p>
+        }
+    }
+}

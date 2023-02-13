@@ -1,0 +1,33 @@
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/bin/Debug/net6.0/appsettings.Development.json
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/bin/Debug/net6.0/appsettings.json
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/bin/Debug/net6.0/Deck of Cards API Lab.staticwebassets.runtime.json
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/bin/Debug/net6.0/Deck of Cards API Lab
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/bin/Debug/net6.0/Deck of Cards API Lab.deps.json
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/bin/Debug/net6.0/Deck of Cards API Lab.runtimeconfig.json
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/bin/Debug/net6.0/Deck of Cards API Lab.dll
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/bin/Debug/net6.0/Deck of Cards API Lab.pdb
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/Deck of Cards API Lab.csproj.AssemblyReference.cache
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/Deck of Cards API Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/Deck of Cards API Lab.AssemblyInfoInputs.cache
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/Deck of Cards API Lab.AssemblyInfo.cs
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/Deck of Cards API Lab.csproj.CoreCompileInputs.cache
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/Deck of Cards API Lab.MvcApplicationPartsAssemblyInfo.cache
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/Deck of Cards API Lab.RazorAssemblyInfo.cache
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/Deck of Cards API Lab.RazorAssemblyInfo.cs
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/staticwebassets/msbuild.Deck of Cards API Lab.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/staticwebassets/msbuild.build.Deck of Cards API Lab.props
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Deck of Cards API Lab.props
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Deck of Cards API Lab.props
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/staticwebassets.build.json
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/staticwebassets.development.json
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/scopedcss/bundle/Deck of Cards API Lab.styles.css
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/scopedcss/projectbundle/Deck of Cards API Lab.bundle.scp.css
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/Deck of Cards API Lab.csproj.CopyComplete
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/Deck of Cards API Lab.dll
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/refint/Deck of Cards API Lab.dll
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/Deck of Cards API Lab.pdb
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/Deck of Cards API Lab.genruntimeconfig.cache
+/Users/glandoncomputer/Projects/Deck of Cards API Lab/Deck of Cards API Lab/obj/Debug/net6.0/ref/Deck of Cards API Lab.dll
